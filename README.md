@@ -8,7 +8,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 
 <table>
 <tr>
-<th></th>
+<th>First debate</th>
 <th>CLINTON</th>
 <th>TRUMP</th>
 </tr>
@@ -63,7 +63,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>1</td>
 </tr>
 <tr>
-<th colspan="2">top unigrams      (tokens)</th>
+<th colspan="3">top unigrams      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -141,7 +141,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>24 want</td>
 </tr>
 <tr>
-<th colspan="2">top positive      (tokens)</th>
+<th colspan="3">top positive      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -219,7 +219,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>4 advantage</td>
 </tr>
 <tr>
-<th colspan="2">top negative      (tokens)</th>
+<th colspan="3">top negative      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -297,7 +297,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>3 fault</td>
 </tr>
 <tr>
-<th colspan="2">top bigrams    (token x 2)</th>
+<th colspan="3">top bigrams    (token x 2)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -375,7 +375,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>5 take look</td>
 </tr>
 <tr>
-<th colspan="2">top trigrams   (token x 3)</th>
+<th colspan="3">top trigrams   (token x 3)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -455,7 +455,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 </table>
 <table>
 <tr>
-<th></th>
+<th>Second Debate</th>
 <th>CLINTON</th>
 <th>TRUMP</th>
 </tr>
@@ -510,7 +510,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>0</td>
 </tr>
 <tr>
-<th colspan="2">top unigrams      (tokens)</th>
+<th colspan="3">top unigrams      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -588,7 +588,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>20 get</td>
 </tr>
 <tr>
-<th colspan="2">top positive      (tokens)</th>
+<th colspan="3">top positive      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -666,7 +666,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>3 fine</td>
 </tr>
 <tr>
-<th colspan="2">top negative      (tokens)</th>
+<th colspan="3">top negative      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -744,7 +744,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>3 hate</td>
 </tr>
 <tr>
-<th colspan="2">top bigrams    (token x 2)</th>
+<th colspan="3">top bigrams    (token x 2)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -822,7 +822,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>4 take care</td>
 </tr>
 <tr>
-<th colspan="2">top trigrams   (token x 3)</th>
+<th colspan="3">top trigrams   (token x 3)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -902,7 +902,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 </table>
 <table>
 <tr>
-<th></th>
+<th>Last Debate</th>
 <th>CLINTON</th>
 <th>TRUMP</th>
 </tr>
@@ -957,7 +957,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>2</td>
 </tr>
 <tr>
-<th colspan="2">top unigrams      (tokens)</th>
+<th colspan="3">top unigrams      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1035,7 +1035,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>19 go</td>
 </tr>
 <tr>
-<th colspan="2">top positive      (tokens)</th>
+<th colspan="3">top positive      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1113,7 +1113,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>3 proud</td>
 </tr>
 <tr>
-<th colspan="2">top negative      (tokens)</th>
+<th colspan="3">top negative      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1191,7 +1191,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>3 lied</td>
 </tr>
 <tr>
-<th colspan="2">top bigrams    (token x 2)</th>
+<th colspan="3">top bigrams    (token x 2)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1269,7 +1269,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>4 trade deals</td>
 </tr>
 <tr>
-<th colspan="2">top trigrams   (token x 3)</th>
+<th colspan="3">top trigrams   (token x 3)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1349,7 +1349,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 </table>
 <table>
 <tr>
-<th></th>
+<th>VP Debate</th>
 <th>KAINE</th>
 <th>PENCE</th>
 </tr>
@@ -1404,7 +1404,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>1</td>
 </tr>
 <tr>
-<th colspan="2">top unigrams      (tokens)</th>
+<th colspan="3">top unigrams      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1482,7 +1482,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>24 united</td>
 </tr>
 <tr>
-<th colspan="2">top positive      (tokens)</th>
+<th colspan="3">top positive      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1560,7 +1560,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>4 support</td>
 </tr>
 <tr>
-<th colspan="2">top negative      (tokens)</th>
+<th colspan="3">top negative      (tokens)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1638,7 +1638,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>3 false</td>
 </tr>
 <tr>
-<th colspan="2">top bigrams    (token x 2)</th>
+<th colspan="3">top bigrams    (token x 2)</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1716,7 +1716,7 @@ I'm sad to admit this linguistic analysis did not give me any grand insight, or 
 <td>7 #BEGIN# senator</td>
 </tr>
 <tr>
-<th colspan="2">top trigrams   (token x 3)</th>
+<th colspan="3">top trigrams   (token x 3)</th>
 </tr>
 <tr>
 <th>1</th>
